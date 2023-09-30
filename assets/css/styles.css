@@ -1,0 +1,96 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+html {
+  @apply text-white;
+}
+
+@layer base {
+  ul {
+    @apply list-disc;
+  }
+
+  h1 {
+    @apply text-4xl font-bold my-12;
+  }
+
+  h2 {
+    @apply text-3xl font-semibold my-10;
+  }
+
+  h3 {
+    @apply text-2xl font-semibold my-8;
+  }
+
+  h4 {
+    @apply text-xl font-semibold my-6;
+  }
+
+  img {
+    @apply max-w-full h-auto block mx-auto;
+  }
+
+  blockquote {
+    @apply border-l-4 pl-4 ml-0 my-4 italic border-gray-200;
+  }
+
+  pre {
+    @apply p-4 bg-gray-100 rounded overflow-auto mb-4 whitespace-normal break-all;
+  }
+
+  code {
+    @apply bg-gray-100 p-1 rounded whitespace-normal break-all;
+  }
+}
+
+@keyframes slide-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.slide-enter-content > * {
+  --stagger: 0;
+  --delay: 150ms;
+  --start: 0ms;
+  animation: slide-enter 1s both;
+  animation-delay: calc(var(--start) + var(--stagger) * var(--delay));
+}
+
+.slide-enter-content > *:nth-child(1) {
+  --stagger: 1;
+}
+.slide-enter-content > *:nth-child(2) {
+  --stagger: 2;
+}
+.slide-enter-content > *:nth-child(3) {
+  --stagger: 3;
+}
+.slide-enter-content > *:nth-child(4) {
+  --stagger: 4;
+}
+.slide-enter-content > *:nth-child(5) {
+  --stagger: 5;
+}
+.slide-enter-content > *:nth-child(6) {
+  --stagger: 6;
+}
+.slide-enter-content > *:nth-child(7) {
+  --stagger: 7;
+}
+.slide-enter-content > *:nth-child(8) {
+  --stagger: 8;
+}
+.slide-enter-content > *:nth-child(9) {
+  --stagger: 9;
+}
+.slide-enter-content > *:nth-child(10) {
+  --stagger: 10;
+}
