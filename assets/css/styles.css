@@ -21,7 +21,11 @@ html {
 
 @layer base {
   ul {
-    @apply list-disc;
+    @apply list-disc m-6;
+  }
+
+  li {
+    @apply my-2;
   }
 
   h1 {
@@ -38,6 +42,10 @@ html {
 
   h4 {
     @apply text-xl font-semibold my-6;
+  }
+
+  p {
+    @apply my-6;
   }
 
   img {

@@ -6,7 +6,7 @@ draft: false
 
 THIS IS A CHATGPT PLACEHOLDER AAAAAA
 
-An Aperol diffuser is a delightful and innovative way to encapsulate the refreshing and unique scent of Aperol within your living spaces. This creative project involves repurposing an Aperol bottle and transforming it into a fragrant diffuser that spreads the aromatic essence of this iconic beverage throughout your home. Here’s how you can create your very own Aperol diffuser and surround yourself with the tantalizing aroma reminiscent of Aperol’s citrusy and herbal notes.
+I've recently got into diffusers since . This creative project involves repurposing an Aperol bottle and transforming it into a fragrant diffuser that spreads the aromatic essence of this iconic beverage throughout your home. Here’s how you can create your very own Aperol diffuser and surround yourself with the tantalizing aroma reminiscent of Aperol’s citrusy and herbal notes.
 
 Supplies You'll Need:
 An empty Aperol bottle

@@ -4,11 +4,13 @@ date: 2023-09-30
 draft: false
 ---
 
+![Stable diffusion man running](/images/man_running_in_suit.png "This could be you (if you were a stable diffusion guy with wobbly knees)")
+
 # Why You Should Run Everywhere Instead of Walking
 
-It’s 5am and I’m leaving the Stone Roses Bar in Leeds. The only place that opens that late. Birds are chirping away like a bunch of twats as the first light appears. The Uber home is a reasonable price. Walking? It’ll be about 40 minutes. In that moment, I have the most delicious realisation. 
+It’s 5am and I’m leaving the Stone Roses Bar in Leeds. The only place that opens that late. Birds are chirping away like a bunch of twats as the first light appears. The Uber home is a reasonable price. Walking? It’ll be about 40 minutes. In that moment, I have the most delicious realisation.
 
-*If I run home, it’ll be quicker than the Uber, and it’ll be free.*
+_If I run home, it’ll be quicker than the Uber, and it’ll be free._
 
 In the years since, I’ve been deploying running as a frequent method of transport. This is my **Transport by Run Manifesto.**
 
@@ -23,6 +25,8 @@ If you were going to walk somewhere, strongly consider running instead. A 30-min
 The speed of running becomes more intriguing when compared to other methods of transport.
 
 ### Subsection 1.2: So What Else is Running Faster Than?
+
+![Stable diffusion man running](/images/running_is_fast.png "It's faster than everything")
 
 If you live in a city, sometimes running might be the fastest mode of travel overall.
 
@@ -50,6 +54,8 @@ It will also enhance your mental health. You'll look like a nutter running every
 
 ## Section 2: Environmental Benefits
 
+![Stable diffusion man running](/images/happy_tree.png "Happy Tree")
+
 Running is probably better for the environment than whatever you were thinking of doing as an alternative. It’s also probably safer for either you or the people around you, possibly both.
 
 ## Section 3: Practicality and Accessibility
@@ -64,7 +70,7 @@ Running is accessible to the vast majority. Those for whom running is inaccessib
 
 ### Subsection 3.3: Growth of a Movement
 
-Running for transport isn’t popular in the UK, and may at first seem odd. 
+Running for transport isn’t popular in the UK, and may at first seem odd.
 
 Imagine a future where just 0.1% of the population run for transport. Running to the pub with your mate then running home. Morning rush at 6am, all jogging to the office.
 
