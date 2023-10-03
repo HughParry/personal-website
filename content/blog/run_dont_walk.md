@@ -2,6 +2,7 @@
 title: "Run don't Walk: A Manifesto"
 date: 2023-09-30
 draft: false
+summary: This is a placeholder blogpost, for now...
 ---
 
 ![Stable diffusion man running](/images/man_running_in_suit.png "This could be you (if you were a stable diffusion guy with wobbly knees)")

@@ -1,10 +1,19 @@
 ---
-title: "Make your own Aperol Diffuser, it'll be cute"
+title: "How to make an Aperol Diffuser"
 date: 2023-09-29
 draft: false
+summary: This is a placeholder blogpost, for now...
 ---
 
-THIS IS A CHATGPT PLACEHOLDER AAAAAA
+# PLACEHOLDER
+
+# PLACEHOLDER
+
+# PLACEHOLDER
+
+# PLACEHOLDER
+
+I need to add some photos to this one.
 
 I've recently got into diffusers since . This creative project involves repurposing an Aperol bottle and transforming it into a fragrant diffuser that spreads the aromatic essence of this iconic beverage throughout your home. Here’s how you can create your very own Aperol diffuser and surround yourself with the tantalizing aroma reminiscent of Aperol’s citrusy and herbal notes.
 

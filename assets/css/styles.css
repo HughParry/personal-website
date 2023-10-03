@@ -57,11 +57,11 @@ html {
   }
 
   pre {
-    @apply p-4 bg-gray-100 rounded overflow-auto mb-4 whitespace-normal break-all;
+    @apply p-4 bg-gray-800 rounded overflow-auto mb-4 whitespace-normal break-all;
   }
 
   code {
-    @apply bg-gray-100 p-1 rounded whitespace-normal break-all;
+    @apply bg-gray-800 p-1 rounded whitespace-normal break-all;
   }
 }
 
