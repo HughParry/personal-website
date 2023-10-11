@@ -1,4 +1,4 @@
-baseURL = "https://yourdomain.com/"
+baseURL = "https://hughparry.com/"
 
 [build]
   writeStats = true
